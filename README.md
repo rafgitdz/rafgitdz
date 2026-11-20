@@ -32,4 +32,4 @@ Every repository below is the live demo of a talk: clone it, run it, watch the r
 Keynotes (45 or 60 min), 2-hour meetups, half-day workshops, one-day trainings
 and podcasts. In French, English or Arabic, in France and Algeria.
 
-**[Request a quote](https://tally.so/r/Y5LRev)** · [LinkedIn](https://www.linkedin.com/in/rafik-ferroukh) · [YouTube: The UnBullshIT](https://www.youtube.com/@TheUnBullshIT)
+**[Request / Plan](https://tally.so/r/Y5LRev)** · [LinkedIn](https://www.linkedin.com/in/rafik-ferroukh) · [YouTube: The UnBullshIT](https://www.youtube.com/@TheUnBullshIT)
